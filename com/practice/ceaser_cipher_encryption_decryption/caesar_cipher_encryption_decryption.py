@@ -1,4 +1,4 @@
-from art_logo import logo
+from com.practice.ceaser_cipher_encryption_decryption.art_logo import logo
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
             'v', 'w', 'x', 'y', 'z']
