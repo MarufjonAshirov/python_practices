@@ -35,3 +35,4 @@ else:
         user_cards.append(deal_card())
     else:
         is_game_over = True
+    print(user_cards)
