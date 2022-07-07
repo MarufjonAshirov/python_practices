@@ -37,3 +37,4 @@ else:
         is_game_over = True
     print(user_cards)
     print(computer_cards)
+    print('this is test to blackjack')
