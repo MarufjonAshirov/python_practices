@@ -38,3 +38,4 @@ else:
     print(user_cards)
     print(computer_cards)
     print('this is test to blackjack')
+    print('this is second test')
