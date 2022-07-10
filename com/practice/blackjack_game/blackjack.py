@@ -40,3 +40,4 @@ else:
     print('this is test to blackjack')
     print('this is second test')
     print('this is third test')
+    print('this is forth test')
